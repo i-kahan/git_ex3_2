@@ -1,4 +1,4 @@
-NEW CHAAAAANGE
+]NEW CHAAAAANGE
 IM CHANGING THINGS HERE
 Lorem ipsum dolor sit amet, 
 Blackstar consectetuer adipiscing elit. 
@@ -9,3 +9,4 @@ nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 
 Nulla consequat massa quis enim. 
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+The greenest coconut on the highest tree will be the sweetest
